@@ -1,4 +1,4 @@
-# SQL Project: HIT Sales System
+# SQL Project: Sales System
 
 ## Introduction
 
